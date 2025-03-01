@@ -28,6 +28,7 @@ Phainance is a comprehensive finance management app built with React Native and 
 ## Tech Stack
 
 - **Frontend**: React Native (Expo)
+- **Backend**: Supabase
 - **UI Components**: React Native Paper
 - **Navigation**: React Navigation
 - **State Management**: React Context
