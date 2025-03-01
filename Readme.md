@@ -41,29 +41,6 @@ Phainance is a comprehensive finance management app built with React Native and 
 - Expo CLI
 - Google Gemini AI API Key
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/phainance.git
-   cd phainance
-   ```
-
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-
-3. Create a `.env` file in the root directory and add your API keys:
-   ```
-   GOOGLE_GEMINI_API_KEY=your_api_key_here
-   ```
-
-4. Start the development server:
-   ```bash
-   npx expo start
-   ```
-
 ## Environment Setup
 
 1. Install Expo Go on your mobile device
@@ -126,11 +103,6 @@ Common issues and their solutions:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-For support or queries, contact us at:
-- Email: support@phainance.app
-- GitHub: [Project Repository](https://github.com/yourusername/phainance)
 
 ## Acknowledgments
 
